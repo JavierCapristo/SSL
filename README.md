@@ -2,8 +2,8 @@
 
 Repositorio publico SSL - K2055
 
-Alumno: Capristo, Javier Ivan 
-Legajo: 1690279
+<li> Alumno: Capristo, Javier Ivan </li> 
+<li> Legajo: 1690279 </li>
 
 
 
